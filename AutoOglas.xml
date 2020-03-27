@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE AutoOglas SYSTEM "autooglas.dtd">
+
+<AutoOglas>
+  <Automobil>
+    <Proizvodjac>VolkWagen</Proizvodjac>
+    <Model tip="MK7">Golf</Model>
+    <Godiste>2015</Godiste>
+    <Farba tip="metalik">Crvena</Farba>
+    <ZapreminaMotora jedinica="ccm">1600</ZapreminaMotora>
+    <Transmisija tip="manuelni">5</Transmisija>
+    <Gorivo tng="ne">benzin</Gorivo>
+    <Cena valuta="din">1800000</Cena>
+    <Kontakt>info@polovniautomobili.com</Kontakt>
+  </Automobil>
+  <Automobil>
+    <Proizvodjac>VolkWagen</Proizvodjac>
+    <Model tip="MK5">Golf</Model>
+    <Godiste>2006</Godiste>
+    <Farba tip="metalik">Bela</Farba>
+    <ZapreminaMotora jedinica="l">2.6</ZapreminaMotora>
+    <Transmisija tip="auto">4</Transmisija>
+    <Gorivo>dizel</Gorivo>
+    <Cena valuta="eur">4000</Cena>
+    <Kontakt>info@mojauto.rs</Kontakt>
+  </Automobil>
+</AutoOglas>
+

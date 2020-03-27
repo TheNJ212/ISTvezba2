@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE fakultet SYSTEM "fakultet.dtd">
+<fakultet>
+  <student status="studira" indeks="rt112">
+    <osoba>
+      <ime>Nikola</ime>
+      <prezime>Nikolic</prezime>
+      <mestoRodjenja>Beograd</mestoRodjenja>
+      <datumRodjenja>21/12/1997</datumRodjenja>
+    </osoba>
+    <upisi>
+      <semestar broj="1" godina="1" vrsta="saf"></semestar>
+      <semestar broj="2" godina="1" vrsta="saf"></semestar>
+    </upisi>
+  </student>
+  <student status="diplomirao" indeks="nrt3210">
+    <osoba>
+      <ime>Mara</ime>
+      <prezime>Maric</prezime>
+      <mestoRodjenja>Beograd</mestoRodjenja>
+      <datumRodjenja>12/05/1987</datumRodjenja>
+    </osoba>
+    <upisi>
+      <semestar broj="1" godina="1" vrsta="saf"></semestar>
+      <semestar broj="2" godina="1" vrsta="saf"></semestar>
+      <semestar broj="3" godina="2" vrsta="budzet"></semestar>
+      <semestar broj="4" godina="2" vrsta="budzet"></semestar>
+      <semestar broj="5" godina="3" vrsta="budzet"></semestar>
+      <semestar broj="6" godina="3" vrsta="budzet"></semestar>
+    </upisi>
+  </student>
+</fakultet>

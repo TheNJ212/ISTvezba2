@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE NEWSPAPER SYSTEM "newspaper.dtd">
+<NEWSPAPER>
+  <ARTICLE AUTHOR="N. J." DATE="12/05/2020">
+    <HEADLINE>NASLOV</HEADLINE>
+    <BYLINE>By N. J. &PUBLISHER;</BYLINE>
+    <LEAD>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    </LEAD>
+    <BODY>
+      Mollitia unde veritatis maiores nulla, quisquam natus a. Voluptas, optio debitis, dolorem asperiores rerum veritatis et qui omnis molestiae aut numquam ratione. &NEWSPAPER;
+    </BODY>
+    <NOTES> &COPYRIGHT;</NOTES>
+  </ARTICLE>
+</NEWSPAPER>

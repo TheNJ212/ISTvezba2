@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mail:Inbox xmlns:mail='http://viser.edu.rs/mail'>
+  <mail:posiljalac>nikolanrt617@gs.viser.edu.rs</mail:posiljalac>
+  <mail:primalac>studentska@viser.edu.rs</mail:primalac>
+  <mail:CC>bob@example.com</mail:CC>
+  <mail:BCC>jake@example.com</mail:BCC>
+  <mail:naslov>Informacija</mail:naslov>
+  <mail:teskt>Kada skola ponovo krece sa radom?</mail:teskt>
+  <mail:datum>12/06/2020</mail:datum>
+</mail:Inbox>
